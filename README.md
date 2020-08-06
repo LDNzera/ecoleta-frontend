@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # REPOSITORIES
 
-<a href="https://github.com/LDNzera/nlw-ecoleta-backend">💻 | "ecoleta" (backend) repository</a>
+<a href="https://github.com/LDNzera/ecoleta-backend">💻 | "ecoleta" (backend) repository</a>
 <hr>
 
 ## 🚀 Tecnologias
@@ -24,8 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
 
 ## 💻 Projeto
 
