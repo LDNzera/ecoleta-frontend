@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 <a href="https://github.com/LDNzera/ecoleta-backend">💻 | "ecoleta" (backend) repository</a>
 <hr>
-<a href="https://github.com/LDNzera/ecoleta-backend">💻 | "ecoleta" (mobile) repository</a>
+<a href="https://github.com/LDNzera/ecoleta-mobile">💻 | "ecoleta" (mobile) repository</a>
 <hr>
 
 ## 🚀 Tecnologias
